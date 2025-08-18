@@ -1,4 +1,4 @@
-joblib==1.1.0
+joblib==1.5.1
 numpy==1.24.3
 pandas==2.0.1
 pefile==2021.9.2
