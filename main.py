@@ -5,6 +5,7 @@ from Classifier.file_classifer import FileClassifier
 from Classifier.url_classifer import URLClassifier
 from Extract.PE_main import extract_pe_features
 from Extract.url_main import extract_url_features,sanitization
+from src.url.app_tk import main
 
 
 def run_PE():
